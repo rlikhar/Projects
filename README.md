@@ -9,6 +9,7 @@ Below is the list of Projects:
 2. Heart failure RandomForest and GradientBoosting Classifiers
 3. Customer Segmentation using KMeans
 4. Movies Recommendation System using Cosine Similarity
+5. Jobs Recommendation System
 
 #### Deep Learning
 
@@ -16,3 +17,8 @@ Below is the list of Projects:
 2. Diabetes Prediction using CNN
 3. Braille Character Recognition using CNN, using inception_v1 and Resnet
 4. Rice image Classification using CNN
+
+#### Web Scraping
+
+1. Web Scraoing using Wikipedia Module
+2. Web Scraping using Youtube Module
